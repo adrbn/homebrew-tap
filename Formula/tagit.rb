@@ -6,7 +6,7 @@ class Tagit < Formula
   url "https://github.com/adrbn/tagit/archive/refs/tags/v1.0.0.tar.gz"
   # Placeholder: fill in once the v1.0.0 tag exists on GitHub, with
   #   curl -sL https://github.com/adrbn/tagit/archive/refs/tags/v1.0.0.tar.gz | shasum -a 256
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "a4fd8fda89a9b541c2b1484cd456986200da585249d69f166ac66a487635b3fc"
   license "MIT"
 
   depends_on "python@3.13"
